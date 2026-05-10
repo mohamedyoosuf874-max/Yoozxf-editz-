@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- 🔷 Top Navigation Bar -->
+<div class="navbar">
+
+    <h2 class="logo">MySite</h2>
+
+    <div class="menu">
+        <a href="index.html">Home</a>
+        <a href="videos.html">Videos</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </div>
+
+    <!-- 🔍 Search Box -->
+    <input type="text" placeholder="Search..." class="search">
+
+</div>
+
+<!-- 🏠 Content -->
+<h1>Welcome to Home Page</h1>
+
+</body>
+</html>
